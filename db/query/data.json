@@ -1,0 +1,5 @@
+[{"id":1, "modalidade":"Atletismo", "tipo":"Cl\u00e1ssico", "distancia":0.4, "sexo":"Masculino", "local":"T\u00f3quio"},
+ {"id":2, "modalidade":"Ciclismo", "tipo":"Cl\u00e1ssico", "distancia":4.8, "sexo":"Misto", "local":"T\u00f3quio"},
+ {"id":3, "modalidade":"Tiro com arco", "tipo":"Moderno", "distancia":0.1, "sexo":"Misto", "local":"T\u00f3quio"},
+ {"id":4, "modalidade":"Canoagem velocidade", "tipo":"Moderno", "distancia":6.2, "sexo":"Feminino", "local":"T\u00f3quio"},
+ {"id":5, "modalidade":"Hipismo", "tipo":"Moderno", "distancia":2.2, "sexo":"Feminino", "local":"T\u00f3quio"}]
